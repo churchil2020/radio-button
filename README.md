@@ -1,5 +1,5 @@
 # radio-button
-for showing selected pet
+for showing selected pet i.e 
        bird
        dog
        pig
